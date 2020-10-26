@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi,I'm Ratna 👋
+Students of Reasearcher of Pusat Studi Data Science
 
 <!--
 **Indahdrs/Indahdrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
